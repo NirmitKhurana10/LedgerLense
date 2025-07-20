@@ -1,7 +1,7 @@
 from langchain.docstore.document import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from helpers.helpers import extract_clean_text_from_xbrl
-from pinecone_client import vectorStore
+from services.pinecone_client import vectorStore
 from uuid import uuid4
 import json
 import os

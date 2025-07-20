@@ -6,3 +6,5 @@ pinecone
 langchain-openai
 langchain-pinecone
 python-docx
+streamlit
+watchdog
