@@ -1,0 +1,8 @@
+sec-edgar-downloader
+langchain
+langchain_community
+bs4
+pinecone
+langchain-openai
+langchain-pinecone
+python-docx
